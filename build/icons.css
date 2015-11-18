@@ -1,0 +1,48 @@
+/* glue: 0.11.0 hash: 9a111d21ec */
+        .icon-icons-1111-taobao,
+.icon-icons-x-round:hover,
+.icon-icons-x-round {
+            background-image: url('icons.png');
+            background-repeat: no-repeat;
+        }
+        
+        .icon-icons-1111-taobao {
+            background-position: -5px -5px;
+            width: 60px;
+            height: 16px;
+        }
+        
+        .icon-icons-x-round:hover {
+            background-position: -5px -31px;
+            width: 15px;
+            height: 15px;
+        }
+        
+        .icon-icons-x-round {
+            background-position: -30px -31px;
+            width: 15px;
+            height: 15px;
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .icon-icons-1111-taobao,
+    .icon-icons-x-round:hover,
+    .icon-icons-x-round {
+                background-image: url('icons.png');
+                -webkit-background-size: 70px 51px;
+                -moz-background-size: 70px 51px;
+                background-size: 70px 51px;
+            }
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 2.0), screen and (min--moz-device-pixel-ratio: 2.0), screen and (-o-min-device-pixel-ratio: 200/100), screen and (min-device-pixel-ratio: 2.0), screen and (min-resolution: 2.0dppx) {
+            .icon-icons-1111-taobao,
+    .icon-icons-x-round:hover,
+    .icon-icons-x-round {
+                background-image: url('icons@2x.png');
+                -webkit-background-size: 70px 51px;
+                -moz-background-size: 70px 51px;
+                background-size: 70px 51px;
+            }
+        }
+        
